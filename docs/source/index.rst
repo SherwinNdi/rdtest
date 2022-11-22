@@ -17,12 +17,38 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-   usage
-   api
+.. toctree::
+   :maxdepth: 2
+   :caption: Getting started:
 
-.. toctree:: 
-  :maxdepth: 1
-   :caption: Examples:
+   installation
+   references
+   credits
+
+.. toctree::
+   :maxdepth: 1
+   :caption: How to:
+
+   notebooks/How_to_use_orsvm.ipynb
    
+.. toctree::
+   :maxdepth: 1
+   :caption: Examples:
+
    notebooks/Chebyshev_fitting
+   notebooks/Legendre_fitting
+   notebooks/Gegenbauer_fitting
+   notebooks/Jacobi_fitting   
+   
+   
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
