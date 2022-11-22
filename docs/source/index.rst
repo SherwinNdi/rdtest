@@ -20,3 +20,9 @@ Contents
 
    usage
    api
+
+.. toctree:: 
+  :maxdepth: 1
+   :caption: Examples:
+   
+   notebooks/Chebyshev_fitting
