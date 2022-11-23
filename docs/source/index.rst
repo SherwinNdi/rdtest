@@ -1,20 +1,17 @@
-Welcome to Lumache's documentation!
-===================================
+.. ORSVM documentation master file, created by
+   sphinx-quickstart on Mon Sep 20 11:31:05 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome to ORSVM's documentation!
+=================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+`orsvm` is a free software package which provides a **SVM** classifier with  some novel orthogonal polynomial kernels. This library provides a complete path of using the SVM classifier from **normalization** to calculation of **SVM equation** and the final **evaluation**.
+Convext optimization is done using `cvxopt`_, which solves teh conext SVM's equation and returns the support vectors as result.
 
-.. note::
+.. _cvxopt: https://cvxopt.org/
 
-   This project is under active development.
-
-Contents
---------
+.. image:: _static/identicons.png
 
 .. toctree::
    :maxdepth: 2
