@@ -35,10 +35,10 @@ Convext optimization is done using `cvxopt`_, which solves teh conext SVM's equa
    :maxdepth: 1
    :caption: Examples:
 
-   notebooks/Chebyshev_fitting.ipynb
-   notebooks/Legendre_fitting.ipynb
-   notebooks/Gegenbauer_fitting.ipynb
-   notebooks/Jacobi_fitting.ipynb
+   /notebooks/Chebyshev_fitting.ipynb
+   /notebooks/Legendre_fitting.ipynb
+   /notebooks/Gegenbauer_fitting.ipynb
+   /notebooks/Jacobi_fitting.ipynb
    
    
 
