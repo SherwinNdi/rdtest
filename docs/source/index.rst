@@ -29,16 +29,16 @@ Convext optimization is done using `cvxopt`_, which solves teh conext SVM's equa
    :maxdepth: 1
    :caption: How to:
 
-   source/notebooks/How_to_use_orsvm.ipynb
+   notebooks/How_to_use_orsvm.ipynb
    
 .. toctree::
    :maxdepth: 1
    :caption: Examples:
 
-   source/notebooks/Chebyshev_fitting.ipynb
-   source/notebooks/Legendre_fitting.ipynb
-   source/notebooks/Gegenbauer_fitting.ipynb
-   source/notebooks/Jacobi_fitting.ipynb
+   notebooks/Chebyshev_fitting.ipynb
+   notebooks/Legendre_fitting.ipynb
+   notebooks/Gegenbauer_fitting.ipynb
+   notebooks/Jacobi_fitting.ipynb
    
    
 
