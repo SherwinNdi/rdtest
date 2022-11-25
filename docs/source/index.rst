@@ -35,7 +35,7 @@ For a comprehensive introduction to fractional orthogonal kernel function refer 
    _notebooks/How_to_use_prefitted_model.ipynb
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Examples:
    
    _notebooks/Legendre_fitting.ipynb
